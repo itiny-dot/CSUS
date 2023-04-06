@@ -1,0 +1,17 @@
+Art/background.png*background
+Art/walk.png*down0
+Art/down1.png*down1
+Art/down2.png*down2
+Art/left1.png*left0
+Art/left2.png*left1
+Art/left3.png*left2
+Art/left4.png*left3
+Art/right1.png*right0
+Art/right2.png*right1
+Art/right3.png*right2
+Art/right4.png*right3
+Art/up1.png*up0
+Art/up2.png*up1
+Art/up3.png*up2
+Art/nothing.png*nothing
+Art/box.png*dialogbox
